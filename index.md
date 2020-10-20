@@ -26,7 +26,7 @@ Il est recommandé de visionner les webdocs à l’aide du navigateur Google Chr
 
 ## Trames narratives
 
-[Liste des trames narratives](https://github.com/bouchereaua/course-in-a-box/blob/gh-pages/Trames%20narratives%20de%20re%CC%81cits%20interactifs.pdf)
+[Liste des trames narratives](http://bouchereaua.net/cours/trames_recits_interactifs.pdf)
 
 ## Créer un récit interactif avec Twine
 
