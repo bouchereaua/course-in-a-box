@@ -7,7 +7,7 @@ published: true
 
 Il est recommandé de visionner les webdocs à l’aide du navigateur Google Chrome et, dans certains cas (e.g. Fort McMoney, Out My Window), d’autoriser l’activation de Flash.
 
-- Fort McMoney : [http://www.fortmcmoney.com/fr/#/fortmcmoney](http://www.fortmcmoney.com/fr/#/fortmcmoney)
+- Fort McMoney : [http://www.fortmcmoney.com/fr/#/fortmcmoney](http://www.fortmcmoney.com/fr/#/fortmcmoney). Tutoriel pour accéder à Fort McMoney malgré les restrictions : [http://bouchereaua.net/cours/acces_FortMcMoney.gif](http://bouchereaua.net/cours/acces_FortMcMoney.gif)
 - La Morale de l’histoire : [https://morale.arte.tv/](https://morale.arte.tv/)
 - Bear 71 : [https://bear71vr.nfb.ca/](https://bear71vr.nfb.ca/) 
 - AGO : [http://www.ago-ledocumentaire.org/AGO\_\_le\_Webdoc\_interactif/](http://www.ago-ledocumentaire.org/AGO__le_Webdoc_interactif/)
